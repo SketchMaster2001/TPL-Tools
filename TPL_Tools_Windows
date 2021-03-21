@@ -2,7 +2,7 @@
 setlocal EnableDelayedExpansion
 cd /d "%~dp0"
 
-set title=Decode/Encode TPLs By SketchMaster2001
+set title=TPL Tools By SketchMaster2001
 
 title %title%
 
@@ -10,7 +10,7 @@ goto main
 
 :main
 echo.
-echo              `..````                                     Decrypt/Encrypt TPL - By: SketchMaster2001
+echo              `..````                                     TPL Tools - By: SketchMaster2001
 echo              yNNNNNNNNMNNmmmmdddhhhyyyysssooo+++/:--.`    
 echo              hNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd   
 echo              ddmNNd:dNMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMs
